@@ -1,4 +1,12 @@
 # Multiple-UAV-motion-control-system
+**Feb 2025 Update:**
+
+I have create a new repo for this project: [Multiple-UAV-Motion-Control-System-Python](https://github.com/jjjllxx/Multiple-UAV-Motion-Control-System-Python.git).  
+This new repo converts most of the functions in original repo from Matlab to Python.  
+I cleaned up and refactored the code for better readability. Welcome to refer to the new repo.  
+
+**May 2022:**
+
 Multiple UAV motion control system(initially named as AI based motion control) is my EE5003 project for NUS.  
 The code and result GIF is saved in this repository.  
 The RRT path planning algorithm is based on this [matlab-rrt-variants](https://github.com/adnanmunawar/matlab-rrt-variants).
